@@ -1,0 +1,14 @@
+discord.py
+    python-dotenv
+
+
+
+
+
+
+
+
+
+
+
+
